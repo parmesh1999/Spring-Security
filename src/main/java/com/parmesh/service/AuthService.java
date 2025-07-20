@@ -11,6 +11,7 @@ import com.parmesh.model.Role;
 import com.parmesh.model.User;
 import com.parmesh.repository.UserRepository;
 
+
 @Service
 public class AuthService {
     private final UserRepository repository;
